@@ -8,3 +8,5 @@ Tools to help access and manage the different datasets available on CKAN with Ju
 * `Data visualization with OSMnx .ipynb` : concrete example using the municipality of Leuven (and some more generic use cases) on how to use the OSMnx Python library to extract and visualize data from OpenStreetMap.
 
 * `Data visualization with Matplotlib .ipynb` : contains examples on how to use the Matplotlib Python library to filter, manage and visualize statistical data.
+
+*  `Data visualization with Matplotlib .ipynb` : a tutorial on how to use Folium and its different functionalities to manipulate your datasets.
